@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-24T01:55:23.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DY_MAJUD4CI48Y_vuRHK" version="24.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-24T01:57:03.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9D0GqS2INfmpCagb61je" version="24.1.0" type="github" pages="4">
   <diagram name="Page-1" id="d66fe2ae-3e9f-cf2f-6d29-e24063ad5d60">
     <mxGraphModel dx="4533" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -940,7 +940,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="4hzU970K3IGeOto9s-U-" name="Page-2">
+  <diagram id="4hzU970K3IGeOto9s-U-" name="본당 입력">
     <mxGraphModel dx="2163" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1383,11 +1383,25 @@
         <mxCell id="p8GK5SyPZ3NwdRlFlCjc-196" value="Piano 1, 2&lt;div&gt;그랜드 피아노&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="875" y="100.07000000000001" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="o8kRR7houGkj13NGa4ze-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o8kRR7houGkj13NGa4ze-1" target="o8kRR7houGkj13NGa4ze-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="553.2199999999998" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o8kRR7houGkj13NGa4ze-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.electret_microphone;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="535.72" y="410" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="o8kRR7houGkj13NGa4ze-2" value="W/L&lt;div&gt;무선 마이크&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510.72" y="455" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o8kRR7houGkj13NGa4ze-4" value="Local 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="523.2199999999998" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-2" id="KivdulWW6vPKZYE4XlHv">
-    <mxGraphModel dx="1690" dy="1546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2017" dy="1719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="FlYiySj4yT9UKmQYEukp-0" />
         <mxCell id="FlYiySj4yT9UKmQYEukp-1" parent="FlYiySj4yT9UKmQYEukp-0" />
