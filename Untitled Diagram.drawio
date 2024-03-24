@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-24T02:04:01.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NGkcJi__eqGCTwuhc-2o" version="24.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-24T02:05:51.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_V9Bbl_rAu0o5aa0kWua" version="24.1.0" type="github" pages="4">
   <diagram name="Page-1" id="d66fe2ae-3e9f-cf2f-6d29-e24063ad5d60">
     <mxGraphModel dx="4533" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1252,23 +1252,6 @@
         <mxCell id="p8GK5SyPZ3NwdRlFlCjc-140" value="&lt;div&gt;Organ 1, 2&lt;/div&gt;&lt;div&gt;오르간&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="-90" y="93" width="75" height="39.93" as="geometry" />
         </mxCell>
-        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p8GK5SyPZ3NwdRlFlCjc-124" target="p8GK5SyPZ3NwdRlFlCjc-141">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p8GK5SyPZ3NwdRlFlCjc-124" target="p8GK5SyPZ3NwdRlFlCjc-141">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-50" y="-20" />
-              <mxPoint x="-660" y="-20" />
-              <mxPoint x="-660" y="208" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-197" value="오르간 스피커 (별도)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p8GK5SyPZ3NwdRlFlCjc-144">
-          <mxGeometry x="-0.6241" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="p8GK5SyPZ3NwdRlFlCjc-141" value="오르간 스피커" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-640" y="160" width="42.5" height="80" as="geometry" />
         </mxCell>
@@ -1425,7 +1408,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="본당 출력" id="KivdulWW6vPKZYE4XlHv">
-    <mxGraphModel dx="2017" dy="1719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2163" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="FlYiySj4yT9UKmQYEukp-0" />
         <mxCell id="FlYiySj4yT9UKmQYEukp-1" parent="FlYiySj4yT9UKmQYEukp-0" />
@@ -1590,29 +1573,14 @@
         <mxCell id="FlYiySj4yT9UKmQYEukp-47" value="" style="group" vertex="1" connectable="0" parent="FlYiySj4yT9UKmQYEukp-1">
           <mxGeometry x="1100" y="330" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FlYiySj4yT9UKmQYEukp-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FlYiySj4yT9UKmQYEukp-47" source="FlYiySj4yT9UKmQYEukp-49">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="15" y="-40" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FlYiySj4yT9UKmQYEukp-49" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.electret_microphone;rotation=-90;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-47">
           <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FlYiySj4yT9UKmQYEukp-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FlYiySj4yT9UKmQYEukp-47" source="FlYiySj4yT9UKmQYEukp-51">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="45" y="-40" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="FlYiySj4yT9UKmQYEukp-51" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.electret_microphone;rotation=-90;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-47">
           <mxGeometry x="30" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FlYiySj4yT9UKmQYEukp-52" value="" style="group" vertex="1" connectable="0" parent="FlYiySj4yT9UKmQYEukp-1">
           <mxGeometry x="1160" y="370" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FlYiySj4yT9UKmQYEukp-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FlYiySj4yT9UKmQYEukp-52" source="FlYiySj4yT9UKmQYEukp-54">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="15" y="-80" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="FlYiySj4yT9UKmQYEukp-54" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.electret_microphone;rotation=-90;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-52">
           <mxGeometry width="30" height="30" as="geometry" />
@@ -1783,11 +1751,6 @@
         </mxCell>
         <mxCell id="FlYiySj4yT9UKmQYEukp-113" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.electret_microphone;rotation=-90;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
           <mxGeometry x="560.72" y="530" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FlYiySj4yT9UKmQYEukp-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FlYiySj4yT9UKmQYEukp-1" source="FlYiySj4yT9UKmQYEukp-55">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1205" y="290" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="yTDi1r8okf7-M5pfemmc-6" value="Main L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
           <mxGeometry x="140.25" y="100.07" width="60" height="30" as="geometry" />
