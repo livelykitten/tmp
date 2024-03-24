@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-24T01:07:36.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="FBuHJe_SFwT0ow676XKW" version="24.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-24T01:09:54.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="k-K6PhwN0jS4dFhcGg16" version="24.1.0" type="github" pages="2">
   <diagram name="Page-1" id="d66fe2ae-3e9f-cf2f-6d29-e24063ad5d60">
     <mxGraphModel dx="4533" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -941,7 +941,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4hzU970K3IGeOto9s-U-" name="Page-2">
-    <mxGraphModel dx="1313" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2163" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1002,15 +1002,15 @@
           <mxGeometry x="155" y="280" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p8GK5SyPZ3NwdRlFlCjc-45" value="순서대로&lt;div&gt;L1, L2, L3, L4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="191.5" y="290" width="85" height="30" as="geometry" />
+          <mxGeometry x="-20" y="290" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p8GK5SyPZ3NwdRlFlCjc-46" value="순서대로&lt;div&gt;R1, R2, R3, R4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="584" y="290" width="85" height="30" as="geometry" />
+          <mxGeometry x="790" y="290" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-47" value="프론트 스피커" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-47" value="메인 스피커" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="210" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-48" value="프론트 스피커" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-48" value="메인 스피커" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="210" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p8GK5SyPZ3NwdRlFlCjc-49" value="Podium 강대상&lt;div&gt;모니터 스피커&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1122,6 +1122,24 @@
         </mxCell>
         <mxCell id="p8GK5SyPZ3NwdRlFlCjc-109" value="4F Delay" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="754.2853378378378" y="550" width="14.285641891891892" height="28.57142857142857" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-113" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="190.00000000000003" y="290" width="60" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-110" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=90;" vertex="1" parent="p8GK5SyPZ3NwdRlFlCjc-113">
+          <mxGeometry x="17.149999999999977" y="-12.5" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-111" value="프론트&lt;div&gt;스피커&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="p8GK5SyPZ3NwdRlFlCjc-113">
+          <mxGeometry y="27.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-114" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="609" y="290" width="60" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-115" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=90;" vertex="1" parent="p8GK5SyPZ3NwdRlFlCjc-114">
+          <mxGeometry x="17.149999999999977" y="-12.5" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-116" value="프론트&lt;div&gt;스피커&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="p8GK5SyPZ3NwdRlFlCjc-114">
+          <mxGeometry y="27.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
