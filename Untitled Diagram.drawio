@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-24T01:20:12.532Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="JwDOSKWyJKIF5r1GtHZ8" version="24.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-24T01:21:03.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="5h2TNg3haO-_OTBn6SPZ" version="24.1.0" type="github" pages="2">
   <diagram name="Page-1" id="d66fe2ae-3e9f-cf2f-6d29-e24063ad5d60">
     <mxGraphModel dx="4533" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -951,7 +951,7 @@
         <mxCell id="p8GK5SyPZ3NwdRlFlCjc-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="325" y="80" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-3" value="Podium&lt;div&gt;강대상&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-3" value="Podium&lt;div&gt;강대상&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="395" y="80" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p8GK5SyPZ3NwdRlFlCjc-7" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;" vertex="1" parent="1">
@@ -1001,10 +1001,10 @@
         <mxCell id="p8GK5SyPZ3NwdRlFlCjc-44" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.plug_socket_connection" vertex="1" parent="1">
           <mxGeometry x="155" y="280" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-45" value="순서대로&lt;div&gt;L1, L2, L3, L4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-45" value="순서대로&lt;div&gt;L1, L2, L3, L4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-20" y="290" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-46" value="순서대로&lt;div&gt;R1, R2, R3, R4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-46" value="순서대로&lt;div&gt;R1, R2, R3, R4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="790" y="290" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p8GK5SyPZ3NwdRlFlCjc-47" value="메인 스피커" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1040,10 +1040,10 @@
         <mxCell id="p8GK5SyPZ3NwdRlFlCjc-72" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.electret_microphone;rotation=-90;" vertex="1" parent="p8GK5SyPZ3NwdRlFlCjc-70">
           <mxGeometry x="30" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-73" value="&lt;div&gt;엘리베이터 마이크&lt;/div&gt;E.mic 1,2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-73" value="&lt;div&gt;엘리베이터 마이크&lt;/div&gt;E.mic 1,2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry y="250" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-75" value="&lt;div&gt;엘리베이터 마이크&lt;/div&gt;E.mic 3, 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-75" value="&lt;div&gt;엘리베이터 마이크&lt;/div&gt;E.mic 3, 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="745" y="250" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p8GK5SyPZ3NwdRlFlCjc-79" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -1171,7 +1171,7 @@
         <mxCell id="p8GK5SyPZ3NwdRlFlCjc-131" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/icons-unleashed-vol1/128/-guitar.png" vertex="1" parent="1">
           <mxGeometry x="-454" y="35" width="58" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-133" value="EG&lt;div&gt;일렉 기타&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-133" value="EG&lt;div&gt;일렉 기타&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="-560" y="100.07" width="75" height="39.93" as="geometry" />
         </mxCell>
         <mxCell id="p8GK5SyPZ3NwdRlFlCjc-135" value="BG&lt;div&gt;베이스 기타&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
