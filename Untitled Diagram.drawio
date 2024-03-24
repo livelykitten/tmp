@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-24T01:57:03.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9D0GqS2INfmpCagb61je" version="24.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-24T02:04:01.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NGkcJi__eqGCTwuhc-2o" version="24.1.0" type="github" pages="4">
   <diagram name="Page-1" id="d66fe2ae-3e9f-cf2f-6d29-e24063ad5d60">
     <mxGraphModel dx="4533" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1385,22 +1385,46 @@
         </mxCell>
         <mxCell id="o8kRR7houGkj13NGa4ze-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o8kRR7houGkj13NGa4ze-1" target="o8kRR7houGkj13NGa4ze-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="553.2199999999998" y="380" as="targetPoint" />
+            <mxPoint x="658.2199999999998" y="387.43" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o8kRR7houGkj13NGa4ze-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.electret_microphone;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="535.72" y="410" width="35" height="35" as="geometry" />
+          <mxGeometry x="640.72" y="417.43" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="o8kRR7houGkj13NGa4ze-2" value="W/L&lt;div&gt;무선 마이크&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510.72" y="455" width="85" height="30" as="geometry" />
+          <mxGeometry x="615.72" y="462.43" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8kRR7houGkj13NGa4ze-4" value="Local 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="523.2199999999998" y="360" width="60" height="30" as="geometry" />
+          <mxGeometry x="628.2199999999998" y="367.43" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9HhIBZltMOjIROHuBcPf-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="266.59999999999997" y="367.43" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9HhIBZltMOjIROHuBcPf-3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="351.59999999999997" y="367.43" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9HhIBZltMOjIROHuBcPf-4" value="싱어&lt;div&gt;모니터 스피커&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="347.5" width="78.21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9HhIBZltMOjIROHuBcPf-12" value="싱어&lt;div&gt;모니터 스피커&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="246.78999999999996" y="347.5" width="78.21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9HhIBZltMOjIROHuBcPf-16" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="423.02" y="367.43" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9HhIBZltMOjIROHuBcPf-17" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="508.02" y="367.43" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9HhIBZltMOjIROHuBcPf-18" value="싱어&lt;div&gt;모니터 스피커&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="481.41999999999996" y="347.5" width="78.21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9HhIBZltMOjIROHuBcPf-19" value="싱어&lt;div&gt;모니터 스피커&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="403.2099999999999" y="347.5" width="78.21" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of Page-2" id="KivdulWW6vPKZYE4XlHv">
+  <diagram name="본당 출력" id="KivdulWW6vPKZYE4XlHv">
     <mxGraphModel dx="2017" dy="1719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="FlYiySj4yT9UKmQYEukp-0" />
@@ -1684,13 +1708,13 @@
           <mxGeometry x="860" width="135" height="143" as="geometry" />
         </mxCell>
         <mxCell id="FlYiySj4yT9UKmQYEukp-75" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/analytic-investment-and-balanced-scorecard/512/406_synth_keyboard_midi_synthesiser_synthesizer_sound_design_producstion-128.png" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
-          <mxGeometry x="-397.5" y="143.07" width="70" height="70" as="geometry" />
+          <mxGeometry x="-260" y="93" width="32.5" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="FlYiySj4yT9UKmQYEukp-76" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/analytic-investment-and-balanced-scorecard/512/406_synth_keyboard_midi_synthesiser_synthesizer_sound_design_producstion-128.png" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
           <mxGeometry x="-100" width="100.07" height="100.07" as="geometry" />
         </mxCell>
         <mxCell id="FlYiySj4yT9UKmQYEukp-77" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/analytic-investment-and-balanced-scorecard/512/408_drum_drums_instrument_kit_musical_sound_design_producstion-128.png" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
-          <mxGeometry x="-350" y="15" width="128" height="128" as="geometry" />
+          <mxGeometry x="-270" y="15.07" width="70.5" height="70.5" as="geometry" />
         </mxCell>
         <mxCell id="FlYiySj4yT9UKmQYEukp-78" value="" style="group" vertex="1" connectable="0" parent="FlYiySj4yT9UKmQYEukp-1">
           <mxGeometry x="900" y="80" width="40" height="20" as="geometry" />
@@ -1717,10 +1741,10 @@
           <mxGeometry x="20" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FlYiySj4yT9UKmQYEukp-83" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/ie_Bright/128/guitar.png" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
-          <mxGeometry x="-530" y="30" width="55" height="55" as="geometry" />
+          <mxGeometry x="-370" y="45.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="FlYiySj4yT9UKmQYEukp-84" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/icons-unleashed-vol1/128/-guitar.png" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
-          <mxGeometry x="-454" y="35" width="58" height="58" as="geometry" />
+          <mxGeometry x="-320" y="45.5" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="yTDi1r8okf7-M5pfemmc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="FlYiySj4yT9UKmQYEukp-1" source="yTDi1r8okf7-M5pfemmc-25" target="FlYiySj4yT9UKmQYEukp-88">
           <mxGeometry relative="1" as="geometry" />
@@ -1745,8 +1769,8 @@
         <mxCell id="FlYiySj4yT9UKmQYEukp-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FlYiySj4yT9UKmQYEukp-1" source="FlYiySj4yT9UKmQYEukp-76" target="FlYiySj4yT9UKmQYEukp-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FlYiySj4yT9UKmQYEukp-95" value="오르간 스피커" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=0;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
-          <mxGeometry x="-640" y="160" width="42.5" height="80" as="geometry" />
+        <mxCell id="FlYiySj4yT9UKmQYEukp-95" value="오르간 스피커&lt;div&gt;(독립 시스템)&lt;/div&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=0;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
+          <mxGeometry x="-390" y="160" width="42.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FlYiySj4yT9UKmQYEukp-108" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.electret_microphone;rotation=-90;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
           <mxGeometry x="249.27999999999997" y="530" width="30" height="30" as="geometry" />
@@ -1826,6 +1850,84 @@
         </mxCell>
         <mxCell id="yTDi1r8okf7-M5pfemmc-34" value="5F Dly" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
           <mxGeometry x="390" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
+          <mxGeometry x="-240" y="520" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FlYiySj4yT9UKmQYEukp-1" source="Z8FizWpEyoFCQWAhVLHP-2" target="Z8FizWpEyoFCQWAhVLHP-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-50" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-4" value="Local 4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z8FizWpEyoFCQWAhVLHP-3">
+          <mxGeometry x="0.5196" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-1" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=-180;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
+          <mxGeometry x="-94.99999999999997" y="530" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-2" value="자모실" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
+          <mxGeometry x="-79.96000000000001" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FlYiySj4yT9UKmQYEukp-1" source="Z8FizWpEyoFCQWAhVLHP-15" target="Z8FizWpEyoFCQWAhVLHP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-20" value="Local 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z8FizWpEyoFCQWAhVLHP-19">
+          <mxGeometry x="0.04" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-6" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=-90;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
+          <mxGeometry x="266.59999999999997" y="367.43" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-7" value="싱어&lt;div&gt;모니터 스피커&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
+          <mxGeometry x="240" y="347.5" width="78.21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-9" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=-90;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
+          <mxGeometry x="344.80999999999995" y="367.43" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-10" value="싱어&lt;div&gt;모니터 스피커&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
+          <mxGeometry x="318.21" y="347.5" width="78.21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-11" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=-90;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
+          <mxGeometry x="479.17999999999995" y="360" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-12" value="싱어&lt;div&gt;모니터 스피커&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
+          <mxGeometry x="452.58" y="340.07" width="78.21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-13" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=-90;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
+          <mxGeometry x="557.39" y="360" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-14" value="싱어&lt;div&gt;모니터 스피커&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
+          <mxGeometry x="530.7900000000001" y="340.07" width="78.21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-15" value="Vox 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=none;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
+          <mxGeometry x="235.71000000000004" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-22" value="Vox 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#cdeb8b;strokeColor=none;" vertex="1" parent="FlYiySj4yT9UKmQYEukp-1">
+          <mxGeometry x="535.72" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FlYiySj4yT9UKmQYEukp-1" source="Z8FizWpEyoFCQWAhVLHP-22" target="Z8FizWpEyoFCQWAhVLHP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-26" value="Local 3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z8FizWpEyoFCQWAhVLHP-23">
+          <mxGeometry x="-0.1115" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FlYiySj4yT9UKmQYEukp-1" source="Z8FizWpEyoFCQWAhVLHP-13" target="Z8FizWpEyoFCQWAhVLHP-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FizWpEyoFCQWAhVLHP-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FlYiySj4yT9UKmQYEukp-1" source="Z8FizWpEyoFCQWAhVLHP-6" target="Z8FizWpEyoFCQWAhVLHP-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="284" y="420" />
+              <mxPoint x="352" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
