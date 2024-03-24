@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-24T00:35:35.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="R8U8HtyFjhVEEVdUSsfB" version="24.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-24T00:58:15.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Vfxv9HlPc5O96bOGtY3A" version="24.1.0" type="github" pages="2">
   <diagram name="Page-1" id="d66fe2ae-3e9f-cf2f-6d29-e24063ad5d60">
     <mxGraphModel dx="4533" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -941,27 +941,105 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4hzU970K3IGeOto9s-U-" name="Page-2">
-    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" width="680" height="360" as="geometry" />
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry width="850" height="280" as="geometry" />
         </mxCell>
         <mxCell id="p8GK5SyPZ3NwdRlFlCjc-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="80" width="200" height="80" as="geometry" />
+          <mxGeometry x="325" y="80" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p8GK5SyPZ3NwdRlFlCjc-3" value="Podium&lt;div&gt;강대상&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="395" y="160" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.microphone_1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="110" width="70" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.headphones;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="270" width="66" height="56" as="geometry" />
+          <mxGeometry x="395" y="80" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p8GK5SyPZ3NwdRlFlCjc-7" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;" vertex="1" parent="1">
-          <mxGeometry x="210" y="270" width="25" height="50" as="geometry" />
+          <mxGeometry x="325" y="30" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-22" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.plug_socket_connection" vertex="1" parent="1">
+          <mxGeometry x="675" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-26" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="500" y="30" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-30" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.electret_microphone;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="435" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-31" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.electret_microphone;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="375" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-33" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="149" y="180" width="42.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-34" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="669" y="180" width="42.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-35" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.plug_socket_connection" vertex="1" parent="1">
+          <mxGeometry x="705" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-39" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.plug_socket_connection" vertex="1" parent="1">
+          <mxGeometry x="735" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-40" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.plug_socket_connection" vertex="1" parent="1">
+          <mxGeometry x="765" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-41" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.plug_socket_connection" vertex="1" parent="1">
+          <mxGeometry x="65" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-42" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.plug_socket_connection" vertex="1" parent="1">
+          <mxGeometry x="95" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-43" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.plug_socket_connection" vertex="1" parent="1">
+          <mxGeometry x="125" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-44" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.plug_socket_connection" vertex="1" parent="1">
+          <mxGeometry x="155" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-45" value="순서대로&lt;div&gt;L1, L2, L3, L4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="191.5" y="290" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-46" value="순서대로&lt;div&gt;R1, R2, R3, R4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="584" y="290" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-47" value="프론트 스피커" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="210" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-48" value="프론트 스피커" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-49" value="Podium 강대상&lt;div&gt;모니터 스피커&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="382.5" y="40" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-51" value="L2" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=mxgraph.electrical.radio.microphone_1;rotation=-90;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="84" y="400" width="41" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p8GK5SyPZ3NwdRlFlCjc-51" target="p8GK5SyPZ3NwdRlFlCjc-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-66" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="5" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-64" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.electret_microphone;rotation=-90;" vertex="1" parent="p8GK5SyPZ3NwdRlFlCjc-66">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-65" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.electret_microphone;rotation=-90;" vertex="1" parent="p8GK5SyPZ3NwdRlFlCjc-66">
+          <mxGeometry x="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-70" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="785" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-71" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.electret_microphone;rotation=-90;" vertex="1" parent="p8GK5SyPZ3NwdRlFlCjc-70">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-72" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.electret_microphone;rotation=-90;" vertex="1" parent="p8GK5SyPZ3NwdRlFlCjc-70">
+          <mxGeometry x="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-73" value="&lt;div&gt;엘리베이터 마이크&lt;/div&gt;E.mic 1,2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="250" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p8GK5SyPZ3NwdRlFlCjc-75" value="&lt;div&gt;엘리베이터 마이크&lt;/div&gt;E.mic 3, 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="745" y="250" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
